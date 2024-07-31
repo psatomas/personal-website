@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.3e4359d8.css",
+    "main.js": "/personal-website/static/js/main.f3dfdd82.js",
+    "static/js/453.253ccfac.chunk.js": "/personal-website/static/js/453.253ccfac.chunk.js",
+    "static/media/code.png": "/personal-website/static/media/code.cc6e1f89018035066ed4.png",
+    "static/media/tribute_page.png": "/personal-website/static/media/tribute_page.c32d4da8dd683c79862b.png",
+    "static/media/survey_form.png": "/personal-website/static/media/survey_form.ba32e90926d226b08bc1.png",
+    "static/media/css_project.png": "/personal-website/static/media/css_project.f047ef05e02daa21cdb4.png",
+    "static/media/product_landing_page.png": "/personal-website/static/media/product_landing_page.fd40b2b90c84e2d7c393.png",
+    "static/media/amazon_best_sellers.png": "/personal-website/static/media/amazon_best_sellers.d5e70c9791d71a2a1e7c.png",
+    "static/media/taco_shop_css_project.png": "/personal-website/static/media/taco_shop_css_project.abadccef27e60d63f646.png",
+    "static/media/tomas_araujo_portfolio.png": "/personal-website/static/media/tomas_araujo_portfolio.bad8a05f87b8672e49cd.png",
+    "static/media/profile_picture.png": "/personal-website/static/media/profile_picture.b34202b8aad2fef4c849.png",
+    "static/media/markdown_previewer.png": "/personal-website/static/media/markdown_previewer.6c9169a1871a5abf632e.png",
+    "static/media/technical_documentation_page.png": "/personal-website/static/media/technical_documentation_page.b2abee0899afc9927919.png",
+    "static/media/html_project.png": "/personal-website/static/media/html_project.9f321a092742ce87519c.png",
+    "static/media/calculator.png": "/personal-website/static/media/calculator.c84bb70f8352e87d3d99.png",
+    "static/media/weather_app.png": "/personal-website/static/media/weather_app.27d46f222075deda57bd.png",
+    "static/media/random_quote_machine.png": "/personal-website/static/media/random_quote_machine.10da30daf2faadae4ca8.png",
+    "static/media/drum_machine.png": "/personal-website/static/media/drum_machine.cd624339e6899da74cd6.png",
+    "static/media/pomodoro_clock.png": "/personal-website/static/media/pomodoro_clock.b440bb0de7df74a9fa52.png",
+    "static/media/slick.svg": "/personal-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/personal-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/personal-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/personal-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/personal-website/index.html",
+    "main.3e4359d8.css.map": "/personal-website/static/css/main.3e4359d8.css.map",
+    "main.f3dfdd82.js.map": "/personal-website/static/js/main.f3dfdd82.js.map",
+    "453.253ccfac.chunk.js.map": "/personal-website/static/js/453.253ccfac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e4359d8.css",
+    "static/js/main.f3dfdd82.js"
+  ]
+}
