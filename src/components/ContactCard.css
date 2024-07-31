@@ -1,0 +1,73 @@
+.message {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 2.5em;
+  flex-direction: column;
+  text-align: center;
+}
+.contact-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  text-align: center;
+}
+
+.contact-card {
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9f9f9;
+    border: 0px solid ;
+    padding: 20px;
+    margin: 150px 150px 150px 150px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px 6px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: 500px;
+  }
+  
+  .contact-card h2 {
+    margin-bottom: 10px;
+  }
+  
+  .contact-card p {
+    margin: 5px 0;
+  }
+  
+  .contact-card button {
+    
+    width: 50%; /* Make buttons take full width */
+    margin: 5px; /* Add margin between buttons */
+    background-color: #0077b5;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.3);
+  }
+
+  .contact-card button.github-button {
+    background-color: #333; /* GitHub button color */
+  }
+  
+  .contact-card button:hover {
+    background-color: #005f8e;
+  }
+  .contact-card button.github-button:hover {
+    background-color: #666; /* GitHub button hover color */
+  }
+  .profile-picture {
+    width: 200px; /* Adjust the width as needed */
+    height: 200px; /* Adjust the height as needed */
+    border-radius: 50%; /* This creates the circular shape */
+    overflow: hidden; /* Ensures the image stays within the circle */
+    border: 5px solid #fff;
+    box-shadow: 5px 10px 10px 2px rgba(0, 0, 0, 0.3);
+}

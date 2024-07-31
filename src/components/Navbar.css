@@ -1,0 +1,77 @@
+
+  .navbar {
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    align-items: center;
+  }
+  .navbar ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+  }
+  .navbar .nav-item {
+    width: 25%;
+    text-align: center;
+  }
+  
+  .navbar .nav-item button {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .navbar li {
+    list-style: none;
+    display: inline;
+    margin-right: 1rem;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+
+  }
+
+  .active {
+    color: blue;
+  }
+  
+  .slider {
+    position: fixed;
+    height: 3px;
+    background-color: blue;
+    transition: left 0.3s ease;
+    width: 100%;
+  }
+
+  button {
+    color: black;
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-align: center; 
+  }
+
+  p {
+    text-align: center;    
+  }
+  h1 {
+    justify-content: center;
+    display: flex;
+    font-size: 2.5rem;
+  }
+
+  #about {
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 400px;
+
+  }

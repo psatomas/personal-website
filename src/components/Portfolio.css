@@ -1,0 +1,88 @@
+.portfolio {
+    
+    width: 100%; /* Full width of the container */
+    max-width: 1600px; /* Maximum width for the slider */
+    margin: 0 auto; /* Center the slider in the page */
+    padding: 20px; /* Padding around the slider */
+    margin-bottom: 800px;
+  }
+  
+  .slider {
+    position: relative; /* Required for positioning the inner elements absolutely */
+  }
+  
+  .slide {
+    outline: none; /* Remove default focus outline from clickable elements */
+  }
+  
+  .portfolio-image {
+    width: 100%; /* Make the images fully responsive */
+    display: block; /* Removes the bottom margin/gap */
+    border-radius: 10px; /* Optional: Rounds the corners of the images */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: Adds shadow for 3D effect */
+  }
+  
+  /* Styling navigation dots */
+  .slick-dots {
+    position: absolute;
+    bottom: -25px; /* Position the dots below the slides */
+    width: 100%;
+    list-style: none;
+    text-align: center;
+    padding: 0;
+  }
+  
+  .slick-dots li {
+    display: inline-block;
+    margin: 0 5px;
+  }
+  
+  .slick-dots li button {
+    font-size: 0; /* Removes the default button text (in some browser versions) */
+    line-height: 0;
+    display: block;
+    width: 10px;
+    height: 10px;
+    padding: 5px;
+    cursor: pointer;
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: #ccc;
+    border-radius: 50%;
+  }
+  
+  .slick-dots li.slick-active button {
+    background: #333;
+  }
+  
+  /* Arrows styling (if you choose to enable arrows) */
+  .slick-prev,
+  .slick-next {
+    position: absolute;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    transform: translateY(-50%);
+    background-color: #fff;
+    color: #333;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    z-index: 10;
+  }
+  
+  .slick-prev {
+    left: 10px;
+  }
+  
+  .slick-next {
+    right: 10px;
+  }
+  
+  .slick-prev:hover,
+  .slick-next:hover {
+    background-color: #333;
+    color: #fff;
+  }
